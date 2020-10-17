@@ -10,3 +10,5 @@ GAN : Generative Adversarial Network 生成對抗網路，是非監督式學習�
 https://experiments.withgoogle.com : 
 https://www.anaconda.com/ : AI 生成工具安裝環境
 Jupyter Notebook : 類 Github 的 local iPython 編輯器
+Scikit-Leaning : 提供 Machine Learning 各種需要的模組https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_digits.html
+Kaggle : 提出 ML 各項為題解決的有賞比賽
