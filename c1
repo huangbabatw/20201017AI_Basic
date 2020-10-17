@@ -7,10 +7,14 @@ GAN : Generative Adversarial Network 生成對抗網路，是非監督式學習�
     其靈感來源於心理學中的行為主義理論，即有機體如何在環境給予的獎勵或懲罰的刺激下，逐步形成對刺激的預期，產生能獲得最大利益的習慣性行為。
     這個方法具有普適性，因此在其他許多領域都有研究，例如博弈論、控制論、運籌學、資訊理論、仿真優化、多智能體系統、群體智能、統計學以及遺傳算法。
     在運籌學和控制理論研究的語境下，強化學習被稱作「近似動態規劃」（approximate dynamic programming，ADP）
-https://experiments.withgoogle.com : 
+https://experiments.withgoogle.com : google 分享學習成果的網站
 https://www.anaconda.com/ : AI 生成工具安裝環境
-Jupyter Notebook : 類 Github 的 local iPython 編輯器
+Jupyter Notebook : 類 Github 的 local iPython 編輯器，
 Scikit-Leaning : 提供 Machine Learning 各種需要的模組
 Kaggle : 提出 ML 各項為題解決的有賞比賽
 Mnist : [Deep Learning] Keras 手寫辨識 
 youtube 教學影片 : 3Blue1brown / Neural networks
+Machine learning 方式
+1. 類神經網路 : (Free) Neural Netrwork , FNN  or NN
+2. 卷積類神經網路 : Convolution Neural Netrwork , CNN
+3. 循環神經網路 : Recurrent Neural Netrwork , RNN
