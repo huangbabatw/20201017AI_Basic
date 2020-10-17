@@ -1,2 +1,12 @@
 kairos.com : 人臉辨識網站
-google chtbut : google 談話機器人
+google chatbot : google 談話機器人
+facebook AI : facebook  AI 工具與研發
+MakeGirlMoe : AI生成女生臉部
+GAN : Generative Adversarial Network 生成對抗網路，是非監督式學習的一種方法，通過讓兩個神經網路相互博弈的方式進行學習。GAN自動生成 https://make.girls.moe/#/
+強化學習（英語：Reinforcement learning，簡稱RL）是機器學習中的一個領域，強調如何基於環境而行動，以取得最大化的預期利益。
+    其靈感來源於心理學中的行為主義理論，即有機體如何在環境給予的獎勵或懲罰的刺激下，逐步形成對刺激的預期，產生能獲得最大利益的習慣性行為。
+    這個方法具有普適性，因此在其他許多領域都有研究，例如博弈論、控制論、運籌學、資訊理論、仿真優化、多智能體系統、群體智能、統計學以及遺傳算法。
+    在運籌學和控制理論研究的語境下，強化學習被稱作「近似動態規劃」（approximate dynamic programming，ADP）
+https://experiments.withgoogle.com : 
+https://www.anaconda.com/ : AI 生成工具安裝環境
+Jupyter Notebook : 類 Github 的 local iPython 編輯器
